@@ -1,6 +1,7 @@
 import numpy as np
 import math as mt
 import pandas as pd
+
 n1, n2 = 10, 20
 h1, h2 = 1.0 / 10, 1.0 / 20
 alpha0, alpha1 = 1.0, 1.0
